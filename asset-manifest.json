@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.20385287.chunk.css",
-    "main.js": "/static/js/main.8468794f.chunk.js",
-    "main.js.map": "/static/js/main.8468794f.chunk.js.map",
+    "main.js": "/static/js/main.c4b8e83b.chunk.js",
+    "main.js.map": "/static/js/main.c4b8e83b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fdfc64d4.js",
     "runtime-main.js.map": "/static/js/runtime-main.fdfc64d4.js.map",
-    "static/js/2.f91d3b5e.chunk.js": "/static/js/2.f91d3b5e.chunk.js",
-    "static/js/2.f91d3b5e.chunk.js.map": "/static/js/2.f91d3b5e.chunk.js.map",
+    "static/js/2.e5495690.chunk.js": "/static/js/2.e5495690.chunk.js",
+    "static/js/2.e5495690.chunk.js.map": "/static/js/2.e5495690.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e3a50d70dffacd0d020d504674c60a57.js": "/precache-manifest.e3a50d70dffacd0d020d504674c60a57.js",
+    "precache-manifest.bfa89888e24bd5d82340901910f6f381.js": "/precache-manifest.bfa89888e24bd5d82340901910f6f381.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.20385287.chunk.css.map": "/static/css/main.20385287.chunk.css.map",
+    "static/media/AIOTEL_LOGO.png": "/static/media/AIOTEL_LOGO.3f78af32.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IEEE_LOGO.jpg": "/static/media/IEEE_LOGO.3d3a9b28.jpg",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
@@ -24,6 +25,7 @@
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
+    "static/media/edgate_logo2.png": "/static/media/edgate_logo2.c372c83c.png",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
@@ -41,6 +43,8 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
+    "static/media/ncj_logo2.png": "/static/media/ncj_logo2.d7b02843.png",
+    "static/media/ncj_logo2_bg.png": "/static/media/ncj_logo2_bg.cea28649.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
@@ -50,12 +54,13 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
+    "static/media/udemy_black_logo.png": "/static/media/udemy_black_logo.333dfef9.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fdfc64d4.js",
-    "static/js/2.f91d3b5e.chunk.js",
+    "static/js/2.e5495690.chunk.js",
     "static/css/main.20385287.chunk.css",
-    "static/js/main.8468794f.chunk.js"
+    "static/js/main.c4b8e83b.chunk.js"
   ]
 }

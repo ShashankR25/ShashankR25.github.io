@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb944c1decd38113380db5860aa55cde",
+    "revision": "340dfcc382168c37646ea2b6cad64e3c",
     "url": "/index.html"
   },
   {
-    "revision": "e84e90d528fdcd9db511",
+    "revision": "dc3743cc7a5e18d04998",
     "url": "/static/css/main.20385287.chunk.css"
   },
   {
-    "revision": "c3405d5f6cff27bade5f",
-    "url": "/static/js/2.f91d3b5e.chunk.js"
+    "revision": "055345d6846a19830441",
+    "url": "/static/js/2.e5495690.chunk.js"
   },
   {
-    "revision": "e84e90d528fdcd9db511",
-    "url": "/static/js/main.8468794f.chunk.js"
+    "revision": "dc3743cc7a5e18d04998",
+    "url": "/static/js/main.c4b8e83b.chunk.js"
   },
   {
     "revision": "51e713cc3ddc27da3682",
     "url": "/static/js/runtime-main.fdfc64d4.js"
+  },
+  {
+    "revision": "3f78af322667f84ee0a02e5aa17a1fd9",
+    "url": "/static/media/AIOTEL_LOGO.3f78af32.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -98,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
     "url": "/static/media/dsc_logo.63f707f2.png"
+  },
+  {
+    "revision": "c372c83cdde5e6ba88f0b5a06dbc6e81",
+    "url": "/static/media/edgate_logo2.c372c83c.png"
   },
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
@@ -224,6 +232,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/muffito_logo.069938a8.png"
   },
   {
+    "revision": "d7b028439187403b509ffbd3b80375b7",
+    "url": "/static/media/ncj_logo2.d7b02843.png"
+  },
+  {
+    "revision": "cea28649753cd9341379a965208a7606",
+    "url": "/static/media/ncj_logo2_bg.cea28649.png"
+  },
+  {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "/static/media/nptel_logo.95a12a2b.png"
   },
@@ -258,6 +274,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "/static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "333dfef96f5ffadf2c1d88d4d26dadad",
+    "url": "/static/media/udemy_black_logo.333dfef9.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
