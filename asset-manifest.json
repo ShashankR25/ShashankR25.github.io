@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.20385287.chunk.css",
-    "main.js": "/static/js/main.f928b614.chunk.js",
-    "main.js.map": "/static/js/main.f928b614.chunk.js.map",
+    "main.css": "/static/css/main.e60da4fb.chunk.css",
+    "main.js": "/static/js/main.5c5cc9d8.chunk.js",
+    "main.js.map": "/static/js/main.5c5cc9d8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fdfc64d4.js",
     "runtime-main.js.map": "/static/js/runtime-main.fdfc64d4.js.map",
     "static/js/2.e5495690.chunk.js": "/static/js/2.e5495690.chunk.js",
     "static/js/2.e5495690.chunk.js.map": "/static/js/2.e5495690.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dd10b8f63a10238a3dcb82b496860ff8.js": "/precache-manifest.dd10b8f63a10238a3dcb82b496860ff8.js",
+    "precache-manifest.2c52544b5b1dcd193890fce8494e3bbe.js": "/precache-manifest.2c52544b5b1dcd193890fce8494e3bbe.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.20385287.chunk.css.map": "/static/css/main.20385287.chunk.css.map",
+    "static/css/main.e60da4fb.chunk.css.map": "/static/css/main.e60da4fb.chunk.css.map",
     "static/media/AIOTEL_LOGO.png": "/static/media/AIOTEL_LOGO.3f78af32.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IEEE_LOGO.jpg": "/static/media/IEEE_LOGO.3d3a9b28.jpg",
@@ -60,7 +60,7 @@
   "entrypoints": [
     "static/js/runtime-main.fdfc64d4.js",
     "static/js/2.e5495690.chunk.js",
-    "static/css/main.20385287.chunk.css",
-    "static/js/main.f928b614.chunk.js"
+    "static/css/main.e60da4fb.chunk.css",
+    "static/js/main.5c5cc9d8.chunk.js"
   ]
 }
