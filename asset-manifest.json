@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e60da4fb.chunk.css",
-    "main.js": "/static/js/main.5c5cc9d8.chunk.js",
-    "main.js.map": "/static/js/main.5c5cc9d8.chunk.js.map",
+    "main.js": "/static/js/main.6a9157a8.chunk.js",
+    "main.js.map": "/static/js/main.6a9157a8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fdfc64d4.js",
     "runtime-main.js.map": "/static/js/runtime-main.fdfc64d4.js.map",
     "static/js/2.e5495690.chunk.js": "/static/js/2.e5495690.chunk.js",
     "static/js/2.e5495690.chunk.js.map": "/static/js/2.e5495690.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2c52544b5b1dcd193890fce8494e3bbe.js": "/precache-manifest.2c52544b5b1dcd193890fce8494e3bbe.js",
+    "precache-manifest.b09558b9817570ab0b639c5c03d7dc3a.js": "/precache-manifest.b09558b9817570ab0b639c5c03d7dc3a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e60da4fb.chunk.css.map": "/static/css/main.e60da4fb.chunk.css.map",
     "static/media/AIOTEL_LOGO.png": "/static/media/AIOTEL_LOGO.3f78af32.png",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.fdfc64d4.js",
     "static/js/2.e5495690.chunk.js",
     "static/css/main.e60da4fb.chunk.css",
-    "static/js/main.5c5cc9d8.chunk.js"
+    "static/js/main.6a9157a8.chunk.js"
   ]
 }
