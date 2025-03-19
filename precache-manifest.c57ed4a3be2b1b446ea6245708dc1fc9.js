@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2e2195cdf99c6ee97c0eb73e4af9a43",
+    "revision": "066e1456ef8244c4acd4ddfb3764f2cf",
     "url": "/index.html"
   },
   {
-    "revision": "d76cc482386141a15542",
+    "revision": "47d12d8839b13978b2e9",
     "url": "/static/css/main.e60da4fb.chunk.css"
   },
   {
-    "revision": "055345d6846a19830441",
-    "url": "/static/js/2.e5495690.chunk.js"
+    "revision": "c35378416427271cb0a3",
+    "url": "/static/js/2.3a2f230a.chunk.js"
   },
   {
-    "revision": "d76cc482386141a15542",
-    "url": "/static/js/main.7b850891.chunk.js"
+    "revision": "47d12d8839b13978b2e9",
+    "url": "/static/js/main.14fdc5f7.chunk.js"
   },
   {
     "revision": "51e713cc3ddc27da3682",
@@ -224,8 +224,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/legato_logo.c597fbde.png"
   },
   {
+    "revision": "9f1041ce2b4b6cfb6d5a881fd77ccc9d",
+    "url": "/static/media/mahe2bg.9f1041ce.jpg"
+  },
+  {
+    "revision": "5b6b5511c77e2785057e007f74472a57",
+    "url": "/static/media/mahe_logo.5b6b5511.png"
+  },
+  {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "fa66656572f920be90741135d82e1c36",
+    "url": "/static/media/manipal-university-jaipur-logo-01.fa666565.png"
+  },
+  {
+    "revision": "e90fd2fc1dd81a741bf401938bb1664d",
+    "url": "/static/media/manipal-university-jaipur-logo-02.e90fd2fc.png"
+  },
+  {
+    "revision": "03bd1cc23739cee2f717f595405430a8",
+    "url": "/static/media/ms-icon-310x310.03bd1cc2.png"
   },
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
@@ -258,6 +278,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "8121a7c408cbb2815202246ebcc00c37",
+    "url": "/static/media/shashank_BG.8121a7c4.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
